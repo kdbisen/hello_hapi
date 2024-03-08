@@ -31,5 +31,4 @@ if (!module.parent) {
         console.log(`Server running at: ${Server.info.uri}`);
     });
 }
-
 module.exports = Server;
